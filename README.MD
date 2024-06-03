@@ -1,4 +1,4 @@
-# DAME LOS PASOS DE INSTALCION
+#  PASOS DE INSTALCION#
 npm install o npm i : este nos instala las librerias que estan en el package.json
 -- Cree la tabla Author
 id , nombre
